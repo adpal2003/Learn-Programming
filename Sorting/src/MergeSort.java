@@ -41,10 +41,14 @@ public class MergeSort {
         }
 
         while (idx2 <= ei) {
+
             merged[x++] = arr[idx2++];
+
+
         }
 
         for (int i = 0, j = si; i < merged.length; i++, j++) {
+            // i am adarsh pal
             arr[j] = merged[i];
         }
     }
