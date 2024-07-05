@@ -64,8 +64,8 @@ public class Program {
 //
 //       s1.studentInfo();
 
-       Student s1 = new  Student("Adarsh", 24);
-       s1.studentInfo();
+//       Student s1 = new  Student("Adarsh", 24);
+//       s1.studentInfo();
 
    }
 
