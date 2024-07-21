@@ -48,7 +48,7 @@ public class MergeSort {
         }
 
         for (int i = 0, j = si; i < merged.length; i++, j++) {
-            // i am adarsh pal
+            
             arr[j] = merged[i];
         }
     }
